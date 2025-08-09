@@ -1,2 +1,2 @@
 # meus-projetos-scratch
-Exercícios e jogos criados no Scratch
+Exercícios e jogos criados no Scratch.
